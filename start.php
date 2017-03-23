@@ -12,10 +12,10 @@ $worker->count = 1;
 $worker->onMessage = function($connection, $data)
 {
     global $worker;
+
     $data = json_decode($data, true);
     $url = 'http://workerman.cc/api/getUserInfo?token='.$data['token'];
     $info = send_curl($url);
-
     // 判断是否登录
     if(!isset($connection->uid)) {
         $connection->uid = $info['id'];
@@ -27,16 +27,24 @@ $worker->onMessage = function($connection, $data)
         return $connection->send(json_encode($send));
     }
 
-    $uid = $data['uid'];
-    $content = htmlspecialchars($data['content']);
+    $uid = 'all';
+    $message = htmlspecialchars($data['content']);
+    $name = $info['name'];
+    $id = $info['id'];
 
-    $send = ['type' => 'chat', 'message' => $content];
-    $content = json_encode($send);
+    $send = [
+        'type' => 'chat',
+        'message' => $message,
+        'id' => $id,
+        'uid' => $uid,
+        'name' => $name
+    ];
+    $message = json_encode($send);
     // // 全局广播
     if($uid == 'all') {
-        sendMessageByAll($content);
+        sendMessageByAll($message);
     } else {
-        sendMessageByUid($uid, $content);
+        sendMessageByUid($uid, $message);
     }
 };
 

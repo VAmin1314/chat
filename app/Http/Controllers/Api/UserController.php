@@ -18,6 +18,7 @@ class UserController extends Controller
 
         $info = [
             'id' => $user->id,
+            'name' => $user->name
         ];
         return $info;
     }

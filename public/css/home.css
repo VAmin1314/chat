@@ -1,49 +1,49 @@
-.paddingNone {
-    padding:0;
+.message-area{
+    height: 30em;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
-.list-group .people{
-    border-bottom: 1px solid #ccc;
-    list-style: none;
-    padding: 12px 20px;
-}
-.list-group .people img{
-    width: 30px;
-    height: 30px;
-}
-.list-group .active {
-    background: #eee;
-}
-
-.leftmenu{
-    border:1px solid #ccc;
-    border-top:none;
-    border-left:none;
-    border-bottom:none;
-    min-height: 400px;
-    height: 100%;
-    position: relative;
-}
-.full{
-    height: 500px
-}
-.chatContent{
-    min-height: 200px;
-    border-top:none;
-    height: 383px;
-    border-bottom:none;
-    padding-left: 10px;
-}
-
-#content {
+.content{
     resize:none;
-    position: relative;
-    bottom: 0;
-    top: 22px;
-    width: 100%;
-    padding: 3px;
-    padding-left: 10px;
-    border: 1px solid #ccc;
-    border-left: none;
-    outline:none;
-    border-right: none;
 }
+
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+::-webkit-scrollbar
+{
+    width: 4px;
+    height: 4px;
+    background-color: #fff;
+}
+
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track
+{
+    /*-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);*/
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
