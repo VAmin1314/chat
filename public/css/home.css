@@ -1,0 +1,49 @@
+.paddingNone {
+    padding:0;
+}
+.list-group .people{
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+    padding: 12px 20px;
+}
+.list-group .people img{
+    width: 30px;
+    height: 30px;
+}
+.list-group .active {
+    background: #eee
+}
+
+.leftmenu{
+    border:1px solid #ccc;
+    border-top:none;
+    border-left:none;
+    border-bottom:none;
+    min-height: 400px;
+    height: 100%;
+    position: relative;
+}
+.full{
+    height: 500px
+}
+.chatContent{
+    min-height: 200px;
+    border-top:none;
+    height: 383px;
+    border-bottom:none;
+    padding-left: 10px;
+}
+
+#content {
+    resize:none;
+    position: relative;
+    bottom: 0;
+    top: 22px;
+    width: 100%;
+    padding: 3px;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+    border-left: none;
+    outline:none;
+    border-right: none;
+}

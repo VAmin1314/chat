@@ -1,0 +1,1052 @@
+2017-03-21 19:24:13 pid:4452 Workerman[demo.php] start in DEBUG mode
+2017-03-21 19:24:21 pid:4452 Workerman[demo.php] Stopping ...
+2017-03-21 19:24:21 pid:4452 Workerman[demo.php] has been stopped
+2017-03-21 19:24:23 pid:4465 Workerman[demo.php] start in DEBUG mode
+2017-03-21 19:26:24 pid:4465 Workerman[demo.php] Stopping ...
+2017-03-21 19:26:24 pid:4465 Workerman[demo.php] has been stopped
+2017-03-21 19:26:26 pid:4494 Workerman[demo.php] start in DEBUG mode
+2017-03-21 19:27:39 pid:4494 Workerman[demo.php] Stopping ...
+2017-03-21 19:27:39 pid:4494 Workerman[demo.php] has been stopped
+2017-03-21 19:27:39 pid:4523 Workerman[demo.php] start in DEBUG mode
+2017-03-21 19:30:13 pid:4523 Workerman[demo.php] Stopping ...
+2017-03-21 19:30:13 pid:4523 Workerman[demo.php] has been stopped
+2017-03-21 19:30:13 pid:4554 Workerman[demo.php] start in DEBUG mode
+2017-03-21 19:37:46 pid:4554 Workerman[demo.php] Stopping ...
+2017-03-21 19:37:46 pid:4554 Workerman[demo.php] has been stopped
+2017-03-21 19:37:47 pid:4617 Workerman[demo.php] start in DEBUG mode
+2017-03-21 20:05:23 pid:4617 Workerman[demo.php] Stopping ...
+2017-03-21 20:05:23 pid:4617 Workerman[demo.php] has been stopped
+2017-03-22 10:30:47 pid:5142 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:52:14 pid:5142 Workerman[demo.php] Stopping ...
+2017-03-22 10:52:14 pid:5142 Workerman[demo.php] has been stopped
+2017-03-22 10:52:15 pid:5363 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:52:58 pid:5363 Workerman[demo.php] Stopping ...
+2017-03-22 10:52:58 pid:5363 Workerman[demo.php] has been stopped
+2017-03-22 10:52:58 pid:5377 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:53:37 pid:5377 Workerman[demo.php] Stopping ...
+2017-03-22 10:53:37 pid:5377 Workerman[demo.php] has been stopped
+2017-03-22 10:53:38 pid:5391 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:55:18 pid:5391 Workerman[demo.php] Stopping ...
+2017-03-22 10:55:18 pid:5391 Workerman[demo.php] has been stopped
+2017-03-22 10:55:19 pid:5418 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:55:46 pid:5418 Workerman[demo.php] Stopping ...
+2017-03-22 10:55:46 pid:5418 Workerman[demo.php] has been stopped
+2017-03-22 10:55:47 pid:5435 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:55:47 pid:5436 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5436] exit with status 65280
+2017-03-22 10:55:47 pid:5437 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5437] exit with status 65280
+2017-03-22 10:55:47 pid:5438 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5438] exit with status 65280
+2017-03-22 10:55:47 pid:5439 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5439] exit with status 65280
+2017-03-22 10:55:47 pid:5440 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5440] exit with status 65280
+2017-03-22 10:55:47 pid:5441 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5441] exit with status 65280
+2017-03-22 10:55:47 pid:5442 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5442] exit with status 65280
+2017-03-22 10:55:47 pid:5443 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5443] exit with status 65280
+2017-03-22 10:55:47 pid:5444 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5444] exit with status 65280
+2017-03-22 10:55:47 pid:5445 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5445] exit with status 65280
+2017-03-22 10:55:47 pid:5446 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5446] exit with status 65280
+2017-03-22 10:55:47 pid:5447 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5447] exit with status 65280
+2017-03-22 10:55:47 pid:5448 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5448] exit with status 65280
+2017-03-22 10:55:47 pid:5449 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5449] exit with status 65280
+2017-03-22 10:55:47 pid:5450 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5450] exit with status 65280
+2017-03-22 10:55:47 pid:5451 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5451] exit with status 65280
+2017-03-22 10:55:47 pid:5452 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5452] exit with status 65280
+2017-03-22 10:55:47 pid:5453 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5453] exit with status 65280
+2017-03-22 10:55:47 pid:5454 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5454] exit with status 65280
+2017-03-22 10:55:47 pid:5455 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5455] exit with status 65280
+2017-03-22 10:55:47 pid:5456 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5456] exit with status 65280
+2017-03-22 10:55:47 pid:5457 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5457] exit with status 65280
+2017-03-22 10:55:47 pid:5458 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5458] exit with status 65280
+2017-03-22 10:55:47 pid:5459 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5459] exit with status 65280
+2017-03-22 10:55:47 pid:5460 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5460] exit with status 65280
+2017-03-22 10:55:47 pid:5461 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5461] exit with status 65280
+2017-03-22 10:55:47 pid:5462 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5462] exit with status 65280
+2017-03-22 10:55:47 pid:5463 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5463] exit with status 65280
+2017-03-22 10:55:47 pid:5464 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5464] exit with status 65280
+2017-03-22 10:55:47 pid:5465 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5465] exit with status 65280
+2017-03-22 10:55:47 pid:5466 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5466] exit with status 65280
+2017-03-22 10:55:47 pid:5467 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5467] exit with status 65280
+2017-03-22 10:55:47 pid:5468 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5468] exit with status 65280
+2017-03-22 10:55:47 pid:5469 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5469] exit with status 65280
+2017-03-22 10:55:47 pid:5470 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5470] exit with status 65280
+2017-03-22 10:55:47 pid:5471 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5471] exit with status 65280
+2017-03-22 10:55:47 pid:5472 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5472] exit with status 65280
+2017-03-22 10:55:47 pid:5473 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5473] exit with status 65280
+2017-03-22 10:55:47 pid:5474 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5474] exit with status 65280
+2017-03-22 10:55:47 pid:5475 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5475] exit with status 65280
+2017-03-22 10:55:47 pid:5476 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5476] exit with status 65280
+2017-03-22 10:55:47 pid:5477 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5477] exit with status 65280
+2017-03-22 10:55:47 pid:5478 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5478] exit with status 65280
+2017-03-22 10:55:47 pid:5479 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5479] exit with status 65280
+2017-03-22 10:55:47 pid:5480 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5480] exit with status 65280
+2017-03-22 10:55:47 pid:5481 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5481] exit with status 65280
+2017-03-22 10:55:47 pid:5482 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5482] exit with status 65280
+2017-03-22 10:55:47 pid:5483 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5483] exit with status 65280
+2017-03-22 10:55:47 pid:5484 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5484] exit with status 65280
+2017-03-22 10:55:47 pid:5485 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5485] exit with status 65280
+2017-03-22 10:55:47 pid:5486 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5486] exit with status 65280
+2017-03-22 10:55:47 pid:5487 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5487] exit with status 65280
+2017-03-22 10:55:47 pid:5488 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5488] exit with status 65280
+2017-03-22 10:55:47 pid:5489 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5489] exit with status 65280
+2017-03-22 10:55:47 pid:5490 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5490] exit with status 65280
+2017-03-22 10:55:47 pid:5491 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5491] exit with status 65280
+2017-03-22 10:55:47 pid:5492 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5492] exit with status 65280
+2017-03-22 10:55:47 pid:5493 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5493] exit with status 65280
+2017-03-22 10:55:47 pid:5494 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5494] exit with status 65280
+2017-03-22 10:55:47 pid:5495 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:47 pid:5435 worker[none:5495] exit with status 65280
+2017-03-22 10:55:47 pid:5496 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5496] exit with status 65280
+2017-03-22 10:55:48 pid:5497 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5497] exit with status 65280
+2017-03-22 10:55:48 pid:5498 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5498] exit with status 65280
+2017-03-22 10:55:48 pid:5499 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5499] exit with status 65280
+2017-03-22 10:55:48 pid:5500 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5500] exit with status 65280
+2017-03-22 10:55:48 pid:5501 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5501] exit with status 65280
+2017-03-22 10:55:48 pid:5502 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5502] exit with status 65280
+2017-03-22 10:55:48 pid:5503 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5503] exit with status 65280
+2017-03-22 10:55:48 pid:5504 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5504] exit with status 65280
+2017-03-22 10:55:48 pid:5505 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5505] exit with status 65280
+2017-03-22 10:55:48 pid:5506 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5506] exit with status 65280
+2017-03-22 10:55:48 pid:5507 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5507] exit with status 65280
+2017-03-22 10:55:48 pid:5508 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5508] exit with status 65280
+2017-03-22 10:55:48 pid:5509 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5509] exit with status 65280
+2017-03-22 10:55:48 pid:5510 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5510] exit with status 65280
+2017-03-22 10:55:48 pid:5511 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5511] exit with status 65280
+2017-03-22 10:55:48 pid:5512 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5512] exit with status 65280
+2017-03-22 10:55:48 pid:5513 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5513] exit with status 65280
+2017-03-22 10:55:48 pid:5514 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5514] exit with status 65280
+2017-03-22 10:55:48 pid:5515 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5515] exit with status 65280
+2017-03-22 10:55:48 pid:5516 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5516] exit with status 65280
+2017-03-22 10:55:48 pid:5517 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5517] exit with status 65280
+2017-03-22 10:55:48 pid:5518 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5518] exit with status 65280
+2017-03-22 10:55:48 pid:5519 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5519] exit with status 65280
+2017-03-22 10:55:48 pid:5520 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5520] exit with status 65280
+2017-03-22 10:55:48 pid:5521 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5521] exit with status 65280
+2017-03-22 10:55:48 pid:5522 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5522] exit with status 65280
+2017-03-22 10:55:48 pid:5523 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5523] exit with status 65280
+2017-03-22 10:55:48 pid:5524 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5524] exit with status 65280
+2017-03-22 10:55:48 pid:5525 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5525] exit with status 65280
+2017-03-22 10:55:48 pid:5526 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5526] exit with status 65280
+2017-03-22 10:55:48 pid:5527 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5527] exit with status 65280
+2017-03-22 10:55:48 pid:5528 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5528] exit with status 65280
+2017-03-22 10:55:48 pid:5529 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5529] exit with status 65280
+2017-03-22 10:55:48 pid:5530 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5530] exit with status 65280
+2017-03-22 10:55:48 pid:5531 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5531] exit with status 65280
+2017-03-22 10:55:48 pid:5532 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5532] exit with status 65280
+2017-03-22 10:55:48 pid:5533 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5533] exit with status 65280
+2017-03-22 10:55:48 pid:5534 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5534] exit with status 65280
+2017-03-22 10:55:48 pid:5535 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5535] exit with status 65280
+2017-03-22 10:55:48 pid:5536 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5536] exit with status 65280
+2017-03-22 10:55:48 pid:5537 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5537] exit with status 65280
+2017-03-22 10:55:48 pid:5538 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5538] exit with status 65280
+2017-03-22 10:55:48 pid:5539 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5539] exit with status 65280
+2017-03-22 10:55:48 pid:5540 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5540] exit with status 65280
+2017-03-22 10:55:48 pid:5541 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5541] exit with status 65280
+2017-03-22 10:55:48 pid:5542 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5542] exit with status 65280
+2017-03-22 10:55:48 pid:5543 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5543] exit with status 65280
+2017-03-22 10:55:48 pid:5544 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5544] exit with status 65280
+2017-03-22 10:55:48 pid:5545 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5545] exit with status 65280
+2017-03-22 10:55:48 pid:5546 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5546] exit with status 65280
+2017-03-22 10:55:48 pid:5547 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5547] exit with status 65280
+2017-03-22 10:55:48 pid:5548 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5548] exit with status 65280
+2017-03-22 10:55:48 pid:5549 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5549] exit with status 65280
+2017-03-22 10:55:48 pid:5550 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5550] exit with status 65280
+2017-03-22 10:55:48 pid:5551 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5551] exit with status 65280
+2017-03-22 10:55:48 pid:5552 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5552] exit with status 65280
+2017-03-22 10:55:48 pid:5553 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5553] exit with status 65280
+2017-03-22 10:55:48 pid:5554 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5554] exit with status 65280
+2017-03-22 10:55:48 pid:5555 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5555] exit with status 65280
+2017-03-22 10:55:48 pid:5556 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5556] exit with status 65280
+2017-03-22 10:55:48 pid:5557 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5557] exit with status 65280
+2017-03-22 10:55:48 pid:5558 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5558] exit with status 65280
+2017-03-22 10:55:48 pid:5559 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5559] exit with status 65280
+2017-03-22 10:55:48 pid:5560 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5560] exit with status 65280
+2017-03-22 10:55:48 pid:5561 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5561] exit with status 65280
+2017-03-22 10:55:48 pid:5562 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5562] exit with status 65280
+2017-03-22 10:55:48 pid:5563 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5563] exit with status 65280
+2017-03-22 10:55:48 pid:5564 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5564] exit with status 65280
+2017-03-22 10:55:48 pid:5565 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5565] exit with status 65280
+2017-03-22 10:55:48 pid:5566 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5566] exit with status 65280
+2017-03-22 10:55:48 pid:5567 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5567] exit with status 65280
+2017-03-22 10:55:48 pid:5568 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5568] exit with status 65280
+2017-03-22 10:55:48 pid:5569 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5569] exit with status 65280
+2017-03-22 10:55:48 pid:5570 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5570] exit with status 65280
+2017-03-22 10:55:48 pid:5571 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5571] exit with status 65280
+2017-03-22 10:55:48 pid:5572 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5572] exit with status 65280
+2017-03-22 10:55:48 pid:5573 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5573] exit with status 65280
+2017-03-22 10:55:48 pid:5574 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5574] exit with status 65280
+2017-03-22 10:55:48 pid:5575 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5575] exit with status 65280
+2017-03-22 10:55:48 pid:5576 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5576] exit with status 65280
+2017-03-22 10:55:48 pid:5577 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5577] exit with status 65280
+2017-03-22 10:55:48 pid:5578 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5578] exit with status 65280
+2017-03-22 10:55:48 pid:5579 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5579] exit with status 65280
+2017-03-22 10:55:48 pid:5580 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5580] exit with status 65280
+2017-03-22 10:55:48 pid:5581 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:48 pid:5435 worker[none:5581] exit with status 65280
+2017-03-22 10:55:48 pid:5582 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5582] exit with status 65280
+2017-03-22 10:55:49 pid:5583 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5583] exit with status 65280
+2017-03-22 10:55:49 pid:5584 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5584] exit with status 65280
+2017-03-22 10:55:49 pid:5585 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5585] exit with status 65280
+2017-03-22 10:55:49 pid:5586 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5586] exit with status 65280
+2017-03-22 10:55:49 pid:5587 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5587] exit with status 65280
+2017-03-22 10:55:49 pid:5588 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5588] exit with status 65280
+2017-03-22 10:55:49 pid:5589 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5589] exit with status 65280
+2017-03-22 10:55:49 pid:5590 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5590] exit with status 65280
+2017-03-22 10:55:49 pid:5591 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5591] exit with status 65280
+2017-03-22 10:55:49 pid:5592 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5592] exit with status 65280
+2017-03-22 10:55:49 pid:5593 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5593] exit with status 65280
+2017-03-22 10:55:49 pid:5594 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5594] exit with status 65280
+2017-03-22 10:55:49 pid:5595 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5595] exit with status 65280
+2017-03-22 10:55:49 pid:5596 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5596] exit with status 65280
+2017-03-22 10:55:49 pid:5597 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5597] exit with status 65280
+2017-03-22 10:55:49 pid:5598 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5598] exit with status 65280
+2017-03-22 10:55:49 pid:5599 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5599] exit with status 65280
+2017-03-22 10:55:49 pid:5600 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5600] exit with status 65280
+2017-03-22 10:55:49 pid:5601 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5601] exit with status 65280
+2017-03-22 10:55:49 pid:5602 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5602] exit with status 65280
+2017-03-22 10:55:49 pid:5603 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5603] exit with status 65280
+2017-03-22 10:55:49 pid:5604 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5604] exit with status 65280
+2017-03-22 10:55:49 pid:5605 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5605] exit with status 65280
+2017-03-22 10:55:49 pid:5606 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5606] exit with status 65280
+2017-03-22 10:55:49 pid:5607 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5607] exit with status 65280
+2017-03-22 10:55:49 pid:5608 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5608] exit with status 65280
+2017-03-22 10:55:49 pid:5609 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5609] exit with status 65280
+2017-03-22 10:55:49 pid:5610 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5610] exit with status 65280
+2017-03-22 10:55:49 pid:5611 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5611] exit with status 65280
+2017-03-22 10:55:49 pid:5612 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5612] exit with status 65280
+2017-03-22 10:55:49 pid:5613 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5613] exit with status 65280
+2017-03-22 10:55:49 pid:5614 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5614] exit with status 65280
+2017-03-22 10:55:49 pid:5615 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5615] exit with status 65280
+2017-03-22 10:55:49 pid:5616 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5616] exit with status 65280
+2017-03-22 10:55:49 pid:5617 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5617] exit with status 65280
+2017-03-22 10:55:49 pid:5618 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5618] exit with status 65280
+2017-03-22 10:55:49 pid:5619 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5619] exit with status 65280
+2017-03-22 10:55:49 pid:5620 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5620] exit with status 65280
+2017-03-22 10:55:49 pid:5621 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5621] exit with status 65280
+2017-03-22 10:55:49 pid:5622 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5622] exit with status 65280
+2017-03-22 10:55:49 pid:5623 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5623] exit with status 65280
+2017-03-22 10:55:49 pid:5624 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5624] exit with status 65280
+2017-03-22 10:55:49 pid:5625 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5625] exit with status 65280
+2017-03-22 10:55:49 pid:5626 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5626] exit with status 65280
+2017-03-22 10:55:49 pid:5627 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5627] exit with status 65280
+2017-03-22 10:55:49 pid:5628 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5628] exit with status 65280
+2017-03-22 10:55:49 pid:5629 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5629] exit with status 65280
+2017-03-22 10:55:49 pid:5630 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5630] exit with status 65280
+2017-03-22 10:55:49 pid:5631 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5631] exit with status 65280
+2017-03-22 10:55:49 pid:5632 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5632] exit with status 65280
+2017-03-22 10:55:49 pid:5633 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5633] exit with status 65280
+2017-03-22 10:55:49 pid:5634 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5634] exit with status 65280
+2017-03-22 10:55:49 pid:5635 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5635] exit with status 65280
+2017-03-22 10:55:49 pid:5636 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5636] exit with status 65280
+2017-03-22 10:55:49 pid:5637 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5637] exit with status 65280
+2017-03-22 10:55:49 pid:5638 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5638] exit with status 65280
+2017-03-22 10:55:49 pid:5639 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5639] exit with status 65280
+2017-03-22 10:55:49 pid:5640 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5640] exit with status 65280
+2017-03-22 10:55:49 pid:5641 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5641] exit with status 65280
+2017-03-22 10:55:49 pid:5642 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5642] exit with status 65280
+2017-03-22 10:55:49 pid:5643 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5643] exit with status 65280
+2017-03-22 10:55:49 pid:5644 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5644] exit with status 65280
+2017-03-22 10:55:49 pid:5645 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5645] exit with status 65280
+2017-03-22 10:55:49 pid:5646 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5646] exit with status 65280
+2017-03-22 10:55:49 pid:5647 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5647] exit with status 65280
+2017-03-22 10:55:49 pid:5648 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5648] exit with status 65280
+2017-03-22 10:55:49 pid:5649 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5649] exit with status 65280
+2017-03-22 10:55:49 pid:5650 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5650] exit with status 65280
+2017-03-22 10:55:49 pid:5651 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5651] exit with status 65280
+2017-03-22 10:55:49 pid:5652 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5652] exit with status 65280
+2017-03-22 10:55:49 pid:5653 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5653] exit with status 65280
+2017-03-22 10:55:49 pid:5654 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5654] exit with status 65280
+2017-03-22 10:55:49 pid:5655 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5655] exit with status 65280
+2017-03-22 10:55:49 pid:5656 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5656] exit with status 65280
+2017-03-22 10:55:49 pid:5657 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5657] exit with status 65280
+2017-03-22 10:55:49 pid:5658 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5658] exit with status 65280
+2017-03-22 10:55:49 pid:5659 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5659] exit with status 65280
+2017-03-22 10:55:49 pid:5660 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5660] exit with status 65280
+2017-03-22 10:55:49 pid:5661 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5661] exit with status 65280
+2017-03-22 10:55:49 pid:5662 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5662] exit with status 65280
+2017-03-22 10:55:49 pid:5663 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5663] exit with status 65280
+2017-03-22 10:55:49 pid:5664 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5664] exit with status 65280
+2017-03-22 10:55:49 pid:5665 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5665] exit with status 65280
+2017-03-22 10:55:49 pid:5666 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:49 pid:5435 worker[none:5666] exit with status 65280
+2017-03-22 10:55:49 pid:5667 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5667] exit with status 65280
+2017-03-22 10:55:50 pid:5668 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5668] exit with status 65280
+2017-03-22 10:55:50 pid:5669 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5669] exit with status 65280
+2017-03-22 10:55:50 pid:5670 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5670] exit with status 65280
+2017-03-22 10:55:50 pid:5671 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5671] exit with status 65280
+2017-03-22 10:55:50 pid:5672 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5672] exit with status 65280
+2017-03-22 10:55:50 pid:5673 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5673] exit with status 65280
+2017-03-22 10:55:50 pid:5674 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5674] exit with status 65280
+2017-03-22 10:55:50 pid:5675 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5675] exit with status 65280
+2017-03-22 10:55:50 pid:5676 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5676] exit with status 65280
+2017-03-22 10:55:50 pid:5677 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5677] exit with status 65280
+2017-03-22 10:55:50 pid:5678 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5678] exit with status 65280
+2017-03-22 10:55:50 pid:5679 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5679] exit with status 65280
+2017-03-22 10:55:50 pid:5680 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5680] exit with status 65280
+2017-03-22 10:55:50 pid:5681 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5681] exit with status 65280
+2017-03-22 10:55:50 pid:5682 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5682] exit with status 65280
+2017-03-22 10:55:50 pid:5683 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5683] exit with status 65280
+2017-03-22 10:55:50 pid:5684 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5684] exit with status 65280
+2017-03-22 10:55:50 pid:5685 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5685] exit with status 65280
+2017-03-22 10:55:50 pid:5686 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5686] exit with status 65280
+2017-03-22 10:55:50 pid:5687 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5687] exit with status 65280
+2017-03-22 10:55:50 pid:5688 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5688] exit with status 65280
+2017-03-22 10:55:50 pid:5689 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5689] exit with status 65280
+2017-03-22 10:55:50 pid:5690 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5690] exit with status 65280
+2017-03-22 10:55:50 pid:5691 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5691] exit with status 65280
+2017-03-22 10:55:50 pid:5692 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5692] exit with status 65280
+2017-03-22 10:55:50 pid:5435 Workerman[demo.php] Stopping ...
+2017-03-22 10:55:50 pid:5693 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 26
+2017-03-22 10:55:50 pid:5435 worker[none:5693] exit with status 65280
+2017-03-22 10:55:50 pid:5435 Workerman[demo.php] has been stopped
+2017-03-22 10:56:03 pid:5703 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:56:23 pid:5703 Workerman[demo.php] Stopping ...
+2017-03-22 10:56:23 pid:5703 Workerman[demo.php] has been stopped
+2017-03-22 10:56:24 pid:5716 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:58:20 pid:5716 Workerman[demo.php] Stopping ...
+2017-03-22 10:58:20 pid:5716 Workerman[demo.php] has been stopped
+2017-03-22 10:58:21 pid:5737 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:58:35 pid:5737 Workerman[demo.php] Stopping ...
+2017-03-22 10:58:35 pid:5737 Workerman[demo.php] has been stopped
+2017-03-22 10:58:36 pid:5749 Workerman[demo.php] start in DEBUG mode
+2017-03-22 10:59:07 pid:5749 Workerman[demo.php] Stopping ...
+2017-03-22 10:59:07 pid:5749 Workerman[demo.php] has been stopped
+2017-03-22 10:59:08 pid:5766 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:00:27 pid:5766 Workerman[demo.php] Stopping ...
+2017-03-22 11:00:27 pid:5766 Workerman[demo.php] has been stopped
+2017-03-22 11:00:28 pid:5785 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:00:31 pid:5786 WORKER EXIT UNEXPECTED E_ERROR Cannot use object of type Workerman\Connection\TcpConnection as array in /Users/vamin/www/demo/demo.php on line 16
+2017-03-22 11:00:31 pid:5785 worker[none:5786] exit with status 65280
+2017-03-22 11:00:47 pid:5785 Workerman[demo.php] Stopping ...
+2017-03-22 11:00:47 pid:5785 Workerman[demo.php] has been stopped
+2017-03-22 11:00:47 pid:5802 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:03:47 pid:5802 Workerman[demo.php] Stopping ...
+2017-03-22 11:03:47 pid:5802 Workerman[demo.php] has been stopped
+2017-03-22 11:03:48 pid:5823 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:04:47 pid:5823 Workerman[demo.php] Stopping ...
+2017-03-22 11:04:47 pid:5823 Workerman[demo.php] has been stopped
+2017-03-22 11:04:48 pid:5839 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:07:33 pid:5839 Workerman[demo.php] Stopping ...
+2017-03-22 11:07:33 pid:5839 Workerman[demo.php] has been stopped
+2017-03-22 11:07:34 pid:5873 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:07:37 pid:5874 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send() on null in /Users/vamin/www/demo/demo.php on line 21
+2017-03-22 11:07:37 pid:5873 worker[none:5874] exit with status 65280
+2017-03-22 11:07:56 pid:5873 Workerman[demo.php] Stopping ...
+2017-03-22 11:07:56 pid:5873 Workerman[demo.php] has been stopped
+2017-03-22 11:07:57 pid:5889 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:08:05 pid:5890 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send() on integer in /Users/vamin/www/demo/demo.php on line 21
+2017-03-22 11:08:05 pid:5889 worker[none:5890] exit with status 65280
+2017-03-22 11:10:43 pid:5889 Workerman[demo.php] Stopping ...
+2017-03-22 11:10:43 pid:5889 Workerman[demo.php] has been stopped
+2017-03-22 11:10:44 pid:5912 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:19:15 pid:5912 Workerman[demo.php] Stopping ...
+2017-03-22 11:19:15 pid:5912 Workerman[demo.php] has been stopped
+2017-03-22 11:19:16 pid:6030 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:19:40 pid:6031 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function broadcast() in /Users/vamin/www/demo/demo.php on line 27
+2017-03-22 11:19:40 pid:6030 worker[none:6031] exit with status 65280
+2017-03-22 11:20:54 pid:6030 Workerman[demo.php] Stopping ...
+2017-03-22 11:20:54 pid:6030 Workerman[demo.php] has been stopped
+2017-03-22 11:20:54 pid:6063 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:22:48 pid:6063 Workerman[demo.php] Stopping ...
+2017-03-22 11:22:48 pid:6063 Workerman[demo.php] has been stopped
+2017-03-22 11:22:49 pid:6082 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:23:46 pid:6082 Workerman[demo.php] Stopping ...
+2017-03-22 11:23:46 pid:6082 Workerman[demo.php] has been stopped
+2017-03-22 11:23:47 pid:6104 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:24:10 pid:6104 Workerman[demo.php] Stopping ...
+2017-03-22 11:24:10 pid:6104 Workerman[demo.php] has been stopped
+2017-03-22 11:24:10 pid:6118 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:25:00 pid:6118 Workerman[demo.php] Stopping ...
+2017-03-22 11:25:00 pid:6118 Workerman[demo.php] has been stopped
+2017-03-22 11:25:01 pid:6137 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:32:34 pid:6137 Workerman[demo.php] Stopping ...
+2017-03-22 11:32:34 pid:6137 Workerman[demo.php] has been stopped
+2017-03-22 11:32:35 pid:6175 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:33:19 pid:6175 Workerman[demo.php] Stopping ...
+2017-03-22 11:33:19 pid:6175 Workerman[demo.php] has been stopped
+2017-03-22 11:33:20 pid:6191 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:33:23 pid:6192 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function dump() in /Users/vamin/www/demo/demo.php on line 21
+2017-03-22 11:33:23 pid:6191 worker[none:6192] exit with status 65280
+2017-03-22 11:33:36 pid:6191 Workerman[demo.php] Stopping ...
+2017-03-22 11:33:36 pid:6191 Workerman[demo.php] has been stopped
+2017-03-22 11:33:36 pid:6207 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:33:49 pid:6207 Workerman[demo.php] Stopping ...
+2017-03-22 11:33:49 pid:6207 Workerman[demo.php] has been stopped
+2017-03-22 11:33:50 pid:6224 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:37:00 pid:6224 Workerman[demo.php] Stopping ...
+2017-03-22 11:37:00 pid:6224 Workerman[demo.php] has been stopped
+2017-03-22 11:37:10 pid:6251 Workerman[demo.php] start in DEBUG mode
+2017-03-22 11:39:14 pid:6251 Workerman[demo.php] Stopping ...
+2017-03-22 11:39:14 pid:6251 Workerman[demo.php] has been stopped
+2017-03-22 11:39:15 pid:6272 Workerman[demo.php] start in DEBUG mode
+2017-03-22 12:03:04 pid:6272 Workerman[demo.php] Stopping ...
+2017-03-22 12:03:04 pid:6272 Workerman[demo.php] has been stopped
+2017-03-22 12:06:07 pid:7130 Workerman[demo.php] start in DEBUG mode
+2017-03-22 12:07:46 pid:7130 Workerman[demo.php] Stopping ...
+2017-03-22 12:07:46 pid:7130 Workerman[demo.php] has been stopped
+2017-03-22 12:42:56 pid:7612 Workerman[demo.php] start in DEBUG mode
+2017-03-22 18:49:22 pid:7612 Workerman[demo.php] Stopping ...
+2017-03-22 18:49:23 pid:7612 Workerman[demo.php] has been stopped
+2017-03-22 18:49:23 pid:9588 Workerman[demo.php] start in DEBUG mode
+2017-03-22 18:49:52 pid:9588 Workerman[demo.php] Stopping ...
+2017-03-22 18:49:52 pid:9588 Workerman[demo.php] has been stopped
+2017-03-22 18:49:53 pid:9602 Workerman[demo.php] start in DEBUG mode
+2017-03-22 19:36:28 pid:9602 Workerman[demo.php] Stopping ...
+2017-03-22 19:36:28 pid:9602 Workerman[demo.php] has been stopped
+2017-03-22 19:36:29 pid:10054 Workerman[demo.php] start in DEBUG mode
+2017-03-22 19:37:34 pid:10054 Workerman[demo.php] Stopping ...
+2017-03-22 19:37:34 pid:10054 Workerman[demo.php] has been stopped
+2017-03-22 19:37:35 pid:10080 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:02:09 pid:10080 Workerman[demo.php] Stopping ...
+2017-03-23 01:02:09 pid:10080 Workerman[demo.php] has been stopped
+2017-03-23 01:02:11 pid:11131 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:04:52 pid:11173 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:14:13 pid:11173 Workerman[demo.php] Stopping ...
+2017-03-23 01:14:13 pid:11173 Workerman[demo.php] has been stopped
+2017-03-23 01:14:29 pid:11299 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:14:32 pid:11300 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(31): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'undefined')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'undefined')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(84): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:14:32 pid:11300 WORKER EXIT UNEXPECTED 
+2017-03-23 01:14:32 pid:11299 worker[none:11300] exit with status 64000
+2017-03-23 01:15:52 pid:11299 Workerman[demo.php] Stopping ...
+2017-03-23 01:15:52 pid:11299 Workerman[demo.php] has been stopped
+2017-03-23 01:15:57 pid:11328 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:16:04 pid:11329 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(31): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fa')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fa')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(84): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:16:04 pid:11329 WORKER EXIT UNEXPECTED 
+2017-03-23 01:16:04 pid:11328 worker[none:11329] exit with status 64000
+2017-03-23 01:16:08 pid:11328 Workerman[demo.php] Stopping ...
+2017-03-23 01:16:08 pid:11328 Workerman[demo.php] has been stopped
+2017-03-23 01:16:46 pid:11353 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:16:53 pid:11354 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(31): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fda')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fda')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(84): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:16:53 pid:11354 WORKER EXIT UNEXPECTED 
+2017-03-23 01:16:53 pid:11353 worker[none:11354] exit with status 64000
+2017-03-23 01:17:33 pid:11353 Workerman[demo.php] Stopping ...
+2017-03-23 01:17:33 pid:11353 Workerman[demo.php] has been stopped
+2017-03-23 01:18:05 pid:11380 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:18:09 pid:11381 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(33): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fda')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fda')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(86): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:18:09 pid:11381 WORKER EXIT UNEXPECTED 
+2017-03-23 01:18:09 pid:11380 worker[none:11381] exit with status 64000
+2017-03-23 01:18:47 pid:11380 Workerman[demo.php] Stopping ...
+2017-03-23 01:18:47 pid:11380 Workerman[demo.php] has been stopped
+2017-03-23 01:18:47 pid:11396 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:18:55 pid:11397 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fda')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fda')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:18:55 pid:11397 WORKER EXIT UNEXPECTED 
+2017-03-23 01:18:55 pid:11396 worker[none:11397] exit with status 64000
+2017-03-23 01:19:53 pid:11396 Workerman[demo.php] Stopping ...
+2017-03-23 01:19:53 pid:11396 Workerman[demo.php] has been stopped
+2017-03-23 01:19:53 pid:11417 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:19:58 pid:11418 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fda')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fda')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:19:58 pid:11418 WORKER EXIT UNEXPECTED 
+2017-03-23 01:19:58 pid:11417 worker[none:11418] exit with status 64000
+2017-03-23 01:20:32 pid:11417 Workerman[demo.php] Stopping ...
+2017-03-23 01:20:32 pid:11417 Workerman[demo.php] has been stopped
+2017-03-23 01:20:33 pid:11435 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:20:37 pid:11436 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'all:fda')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'all:fda')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:20:37 pid:11436 WORKER EXIT UNEXPECTED 
+2017-03-23 01:20:37 pid:11435 worker[none:11436] exit with status 64000
+2017-03-23 01:21:43 pid:11440 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:21:43 pid:11440 WORKER EXIT UNEXPECTED 
+2017-03-23 01:21:43 pid:11435 worker[none:11440] exit with status 64000
+2017-03-23 01:21:47 pid:11435 Workerman[demo.php] Stopping ...
+2017-03-23 01:21:47 pid:11435 Workerman[demo.php] has been stopped
+2017-03-23 01:21:48 pid:11459 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:21:52 pid:11460 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:21:52 pid:11460 WORKER EXIT UNEXPECTED 
+2017-03-23 01:21:52 pid:11459 worker[none:11460] exit with status 64000
+2017-03-23 01:23:07 pid:11464 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #21)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:23:07 pid:11464 WORKER EXIT UNEXPECTED 
+2017-03-23 01:23:07 pid:11459 worker[none:11464] exit with status 64000
+2017-03-23 01:23:16 pid:11459 Workerman[demo.php] Stopping ...
+2017-03-23 01:23:16 pid:11459 Workerman[demo.php] has been stopped
+2017-03-23 01:23:16 pid:11488 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:23:20 pid:11489 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:23:20 pid:11489 WORKER EXIT UNEXPECTED 
+2017-03-23 01:23:20 pid:11488 worker[none:11489] exit with status 64000
+2017-03-23 01:23:54 pid:11488 Workerman[demo.php] Stopping ...
+2017-03-23 01:23:54 pid:11488 Workerman[demo.php] has been stopped
+2017-03-23 01:23:54 pid:11506 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:23:58 pid:11507 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:23:58 pid:11507 WORKER EXIT UNEXPECTED 
+2017-03-23 01:23:58 pid:11506 worker[none:11507] exit with status 64000
+2017-03-23 01:24:49 pid:11511 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #21)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:24:49 pid:11511 WORKER EXIT UNEXPECTED 
+2017-03-23 01:24:49 pid:11506 worker[none:11511] exit with status 64000
+2017-03-23 01:26:35 pid:11520 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{'uid': 'all', ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #22)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:26:35 pid:11520 WORKER EXIT UNEXPECTED 
+2017-03-23 01:26:35 pid:11506 worker[none:11520] exit with status 64000
+2017-03-23 01:30:22 pid:11532 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:30:22 pid:11532 WORKER EXIT UNEXPECTED 
+2017-03-23 01:30:22 pid:11506 worker[none:11532] exit with status 64000
+2017-03-23 01:32:22 pid:11558 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(34): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(1075): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/Workerman/Worker.php(433): Workerman\Worker::monitorWorkers()
+#11 /Users/vamin/www/demo/demo.php(87): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 01:32:22 pid:11558 WORKER EXIT UNEXPECTED 
+2017-03-23 01:32:22 pid:11506 worker[none:11558] exit with status 64000
+2017-03-23 01:32:26 pid:11506 Workerman[demo.php] Stopping ...
+2017-03-23 01:32:26 pid:11506 Workerman[demo.php] has been stopped
+2017-03-23 01:32:28 pid:11607 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:32:32 pid:11608 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(31): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(84): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:32:32 pid:11608 WORKER EXIT UNEXPECTED 
+2017-03-23 01:32:32 pid:11607 worker[none:11608] exit with status 64000
+2017-03-23 01:33:00 pid:11607 Workerman[demo.php] Stopping ...
+2017-03-23 01:33:00 pid:11607 Workerman[demo.php] has been stopped
+2017-03-23 01:33:01 pid:11626 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:33:04 pid:11627 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/demo/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/demo/demo.php(30): Workerman\Connection\TcpConnection->send(NULL)
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#3 /Users/vamin/www/demo/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#5 /Users/vamin/www/demo/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#6 /Users/vamin/www/demo/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#7 /Users/vamin/www/demo/Workerman/Worker.php(959): Workerman\Worker->run()
+#8 /Users/vamin/www/demo/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#9 /Users/vamin/www/demo/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#10 /Users/vamin/www/demo/demo.php(83): Workerman\Worker::runAll()
+#11 {main}
+2017-03-23 01:33:04 pid:11627 WORKER EXIT UNEXPECTED 
+2017-03-23 01:33:05 pid:11626 worker[none:11627] exit with status 64000
+2017-03-23 01:33:31 pid:11626 Workerman[demo.php] Stopping ...
+2017-03-23 01:33:31 pid:11626 Workerman[demo.php] has been stopped
+2017-03-23 01:33:32 pid:11643 Workerman[demo.php] start in DEBUG mode
+2017-03-23 01:34:33 pid:11643 Workerman[demo.php] Stopping ...
+2017-03-23 01:34:33 pid:11643 Workerman[demo.php] has been stopped
+2017-03-23 01:34:34 pid:11670 Workerman[demo.php] start in DEBUG mode
+2017-03-23 09:56:01 pid:11670 Workerman[demo.php] Stopping ...
+2017-03-23 09:56:01 pid:11670 Workerman[demo.php] has been stopped
+2017-03-23 09:56:02 pid:11862 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:00:25 pid:11862 Workerman[demo.php] Stopping ...
+2017-03-23 10:00:25 pid:11862 Workerman[demo.php] has been stopped
+2017-03-23 10:04:23 pid:12073 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:05:35 pid:12073 Workerman[demo.php] Stopping ...
+2017-03-23 10:05:35 pid:12073 Workerman[demo.php] has been stopped
+2017-03-23 10:05:35 pid:12098 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:06:06 pid:12098 Workerman[demo.php] Stopping ...
+2017-03-23 10:06:06 pid:12098 Workerman[demo.php] has been stopped
+2017-03-23 10:06:07 pid:12119 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:06:50 pid:12119 Workerman[demo.php] Stopping ...
+2017-03-23 10:06:50 pid:12119 Workerman[demo.php] has been stopped
+2017-03-23 10:06:51 pid:12144 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:07:09 pid:12144 Workerman[demo.php] Stopping ...
+2017-03-23 10:07:09 pid:12144 Workerman[demo.php] has been stopped
+2017-03-23 10:07:10 pid:12164 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:07:37 pid:12164 Workerman[demo.php] Stopping ...
+2017-03-23 10:07:37 pid:12164 Workerman[demo.php] has been stopped
+2017-03-23 10:07:38 pid:12183 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:08:06 pid:12183 Workerman[demo.php] Stopping ...
+2017-03-23 10:08:06 pid:12183 Workerman[demo.php] has been stopped
+2017-03-23 10:08:07 pid:12205 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:08:24 pid:12206 exception 'Exception' with message 'You can't send(NULL) to client, you need to convert it to a string. ' in /Users/vamin/www/laravel/app/Wornkerman/Workerman/Protocols/Websocket.php:225
+Stack trace:
+#0 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Connection/TcpConnection.php(260): Workerman\Protocols\Websocket::encode(NULL, Object(Workerman\Connection\TcpConnection))
+#1 /Users/vamin/www/laravel/app/Wornkerman/demo.php(44): Workerman\Connection\TcpConnection->send(NULL)
+#2 /Users/vamin/www/laravel/app/Wornkerman/demo.php(34): sendMessageByAll(NULL)
+#3 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#4 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Connection/TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"uid": "all", ...')
+#5 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#6 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#7 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Worker.php(1561): Workerman\Events\Select->loop()
+#8 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Worker.php(959): Workerman\Worker->run()
+#9 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Worker.php(922): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#10 /Users/vamin/www/laravel/app/Wornkerman/Workerman/Worker.php(430): Workerman\Worker::forkWorkers()
+#11 /Users/vamin/www/laravel/app/Wornkerman/demo.php(77): Workerman\Worker::runAll()
+#12 {main}
+2017-03-23 10:08:24 pid:12206 WORKER EXIT UNEXPECTED 
+2017-03-23 10:08:24 pid:12205 worker[none:12206] exit with status 64000
+2017-03-23 10:09:08 pid:12205 Workerman[demo.php] Stopping ...
+2017-03-23 10:09:08 pid:12205 Workerman[demo.php] has been stopped
+2017-03-23 10:09:09 pid:12232 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:42:20 pid:12232 Workerman[demo.php] Stopping ...
+2017-03-23 10:42:20 pid:12232 Workerman[demo.php] has been stopped
+2017-03-23 10:42:21 pid:12845 Workerman[demo.php] start in DEBUG mode
+2017-03-23 10:51:56 pid:12845 Workerman[demo.php] Stopping ...
+2017-03-23 10:51:56 pid:12845 Workerman[demo.php] has been stopped
+2017-03-23 10:52:04 pid:12994 Workerman[start.php] start in DEBUG mode
+2017-03-23 10:57:08 pid:12994 Workerman[start.php] Stopping ...
+2017-03-23 10:57:08 pid:12994 Workerman[start.php] has been stopped
+2017-03-23 10:57:09 pid:13071 Workerman[start.php] start in DEBUG mode
+2017-03-23 11:00:56 pid:13071 Workerman[start.php] Stopping ...
+2017-03-23 11:00:56 pid:13071 Workerman[start.php] has been stopped
+2017-03-23 11:00:59 pid:13152 Workerman[start.php] start in DEBUG mode
+2017-03-23 11:06:10 pid:13152 Workerman[start.php] Stopping ...
+2017-03-23 11:06:10 pid:13152 Workerman[start.php] has been stopped
+2017-03-23 11:06:11 pid:13235 Workerman[start.php] start in DEBUG mode
+2017-03-23 11:07:32 pid:13235 Workerman[start.php] Stopping ...
+2017-03-23 11:07:32 pid:13235 Workerman[start.php] has been stopped
+2017-03-23 11:07:32 pid:13266 Workerman[start.php] start in DEBUG mode

@@ -1,16 +1,21 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
+// v1
+$api = app('Dingo\Api\Routing\Router');
+$api->version('v1', function ($api) {
+    $namespace = 'App\Http\Controllers';
 
-Route::get('/', function () {
-    return view('welcome');
+    $api->get('/getUserInfo', $namespace.'\Api\UserController@getInfo');
 });
+
+Auth::routes();
+Route::group([], function () {
+    Route::get('/', 'HomeController@index');
+});
+
+
+
+
+
+
+
