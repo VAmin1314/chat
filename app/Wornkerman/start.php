@@ -3,7 +3,8 @@ use Workerman\Worker;
 require_once './Workerman/Autoloader.php';
 
 // 创建一个Worker监听2345端口，使用http协议通讯
-$worker = new Worker("websocket://10.0.0.76:8080");
+$worker = new Worker("websocket://127.0.0.1:8080");
+// $worker = new Worker("websocket://10.0.0.76:8080");
 // $worker = new Worker("websocket://192.168.0.112:8080");
 
 // 启动 1 个进程对外提供服务
