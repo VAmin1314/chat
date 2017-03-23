@@ -27,7 +27,7 @@
                             <div>
                                 <form>
                                     <div class="form-group">
-                                        <textarea type="email" class="content" id="content" placeholder="输入聊天内容" rows="4"></textarea>
+                                        <textarea type="email" class="content" id="content" placeholder="输入聊天内容，按 enter 发送" rows="4"></textarea>
                                     </div>
                                     <!-- <button type="button" class="btn btn-default sendContent"> 发送</button> -->
                                 </form>
@@ -43,4 +43,14 @@
 
 @section('js')
 <script src="{{ asset('js/home.js') }}"></script>
+<script type="text/javascript">
+    var ws_url = '{{env("WS_URL")}}';
+</script>
 @endsection
+
+
+
+
+
+
+
