@@ -1,6 +1,7 @@
 $(function () {
     var token = $('.only').attr('data-token');
     $('.only').attr('data-token', '');
+    $('#content').focus();
 
     // 链接成功
     // ws = new WebSocket('ws://192.168.0.112:8080');
