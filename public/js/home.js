@@ -3,7 +3,8 @@ $(function () {
     $('.only').attr('data-token', '');
     // 链接成功
     // ws = new WebSocket('ws://192.168.0.112:8080');
-    ws = new WebSocket('ws://118.89.139.72:9111');
+    ws = new WebSocket('ws://10.0.0.76:8080');
+    // ws = new WebSocket('ws://118.89.139.72:9111');
     ws.onopen = function() {
         console.log("连接成功");
         sendMessage('all');
