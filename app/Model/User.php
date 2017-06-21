@@ -1,6 +1,7 @@
 <?php
 namespace App\Model;
 
+use Hash;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
@@ -16,7 +17,8 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 
-
-
-
+    public function setPasswordAttribute ($val)
+    {
+        $this->attributes['password'] = Hash::make($val);
+    }
 }

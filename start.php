@@ -1,6 +1,7 @@
 <?php
 use Workerman\Worker;
 require_once './Workerman/Autoloader.php';
+require_once './Workerman/function.php';
 
 // 创建一个Worker监听2345端口，使用http协议通讯
 $worker = new Worker("websocket://0.0.0.0:8080");
@@ -8,82 +9,35 @@ $worker = new Worker("websocket://0.0.0.0:8080");
 // 启动 1 个进程对外提供服务
 $worker->count = 1;
 
-// $worker->transport = 'ssl';
 $worker->onMessage = function($connection, $data)
 {
     global $worker;
 
+    $api = 'http://chat-demo.cc/api/getUserInfo';
     $data = json_decode($data, true);
-    $url = 'http://workerman.cc/api/getUserInfo?token='.$data['token'];
+    $url = $api.'?token='.$data['token'];
+
     $info = send_curl($url);
     // 判断是否登录
-    if(!isset($connection->uid)) {
+    if (!isset($connection->uid)) {
         $connection->uid = $info['id'];
-
         $worker->uidConnections[$connection->uid] = $connection;
-
         $send = ['type' => 'login', 'message' => '登录成功'];
 
         return $connection->send(json_encode($send));
     }
 
-    $uid = 'all';
-    $message = htmlspecialchars($data['content']);
-    $name = $info['name'];
-    $id = $info['id'];
-
     $send = [
         'type' => 'chat',
-        'message' => $message,
-        'id' => $id,
-        'uid' => $uid,
-        'name' => $name
+        'message' => htmlspecialchars($data['content']),
+        'id' => $info['id'],
+        'uid' => $data['uid'],
+        'name' => $info['name']
     ];
     $message = json_encode($send);
-    // // 全局广播
-    if($uid == 'all') {
-        sendMessageByAll($message);
-    } else {
-        sendMessageByUid($uid, $message);
-    }
+
+    sendMessage($message, $data['uid']);
 };
-
-// 向所有验证的用户推送数据
-function sendMessageByAll($message) {
-    global $worker;
-    foreach($worker->uidConnections as $connection) {
-        $connection->send($message);
-    }
-}
-
-// 针对uid推送数据
-function sendMessageByUid($uid, $message)
-{
-    global $worker;
-    if(isset($worker->uidConnections[$uid])) {
-        $connection = $worker->uidConnections[$uid];
-        $connection->send($message);
-    }
-}
-
-// curl 请求
-function send_curl ($url = '', $data = [], $type = 'get')
-{
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch, CURLOPT_HEADER, 0);
-
-    if ($type == 'post') {
-        curl_setopt($ch, CURLOPT_POST, 1);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
-    }
-
-    $output = curl_exec($ch);
-    curl_close($ch);
-    return json_decode($output, true);
-}
-
 
 // 运行worker
 Worker::runAll();

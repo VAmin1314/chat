@@ -36,11 +36,18 @@ class RegisterController extends Controller
      */
     protected function validator(array $data)
     {
+        $message = [
+            'name.required' => '用户名不能为空',
+            'name.max' => '用户名不能超过20个字母',
+            'name.unique' => '用户名已经存在',
+            'password.required' => '密码不能为空',
+            'password.min' => '密码最少6位数',
+            'password.confirmed' => '两次密码不一致',
+        ];
         return Validator::make($data, [
-            'name' => 'required|max:255',
-            // 'email' => 'required|email|max:255|unique:users',
-            'password' => 'required|min:6|confirmed',
-        ]);
+            'name' => 'bail|required|max:20|unique:users',
+            'password' => 'bail|required|min:6|confirmed',
+        ], $message);
     }
 
     /**
@@ -51,10 +58,12 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
+        $this->validator($data);
+
         return User::create([
             'name' => $data['name'],
             'email' => '',
-            'password' => bcrypt($data['password']),
+            'password' => $data['password']
         ]);
     }
 }

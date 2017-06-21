@@ -10,7 +10,7 @@ $api->version('v1', function ($api) {
 
 Auth::routes();
 Route::group([], function () {
-    Route::get('/', 'HomeController@index');
+    Route::get('/', 'HomeController@index')->name('/');
 });
 
 

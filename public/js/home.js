@@ -37,9 +37,8 @@ $(function () {
             '</div>'+
             '</div>'+
             '</div>';
-            console.log(html);
-            $('.message-area').append(html).scrollTop($('.message-area')[0].scrollHeight);
 
+            $('.message-area').append(html).scrollTop($('.message-area')[0].scrollHeight);
         }
     };
 
