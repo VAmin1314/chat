@@ -7,17 +7,18 @@
             <div class="panel panel-default">
                 <div class="panel-heading">登录</div>
                 <div class="panel-body">
+                    @if (session('messages'))
+                    <span class="help-block" style="text-align: center;color:#c00">
+                        <strong>{{ session('messages') }}</strong>
+                    </span>
+                    @endif
                     <form class="form-horizontal" role="form" method="POST" action="{{ route('login') }}">
                         {{ csrf_field() }}
                         <div class="form-group{{ $errors->has('name') ? ' has-error' : '' }}">
                             <label for="name" class="col-md-4 control-label"> 用户名</label>
                             <div class="col-md-6">
                                 <input id="name" type="text" class="form-control" name="name" value="{{ old('name') }}" required autofocus>
-                                @if ($errors->has('name'))
-                                <span class="help-block">
-                                    <strong>{{ $errors->first('name') }}</strong>
-                                </span>
-                                @endif
+
                             </div>
                         </div>
 
@@ -25,12 +26,6 @@
                             <label for="password" class="col-md-4 control-label">密码</label>
                             <div class="col-md-6">
                                 <input id="password" type="password" class="form-control" name="password" required>
-
-                                @if ($errors->has('password'))
-                                <span class="help-block">
-                                    <strong>{{ $errors->first('password') }}</strong>
-                                </span>
-                                @endif
                             </div>
                         </div>
 
@@ -50,15 +45,15 @@
                                     登录
                                 </button>
 
-                                <a class="btn btn-link" href="{{ route('password.request') }}">
+                               <!--  <a class="btn btn-link" href="{{ route('password.request') }}">
                                    忘记密码?
-                                </a>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
+                               </a> -->
+                           </div>
+                       </div>
+                   </form>
+               </div>
+           </div>
+       </div>
+   </div>
 </div>
 @endsection

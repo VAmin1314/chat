@@ -53,17 +53,14 @@ class LoginController extends Controller
         $userInfo = $user->where('name', $request->name)->first();
 
         if ($userInfo) {
-            // if (Hash::check($request->password, $userInfo->password)) {
-            //     return redirect('/')->with('messages', '登录成功');
-            // }
-            if ($request->password == $userInfo->password) {
+            if (Hash::check($request->password, $userInfo->password)) {
                 $this->guard()->login($userInfo);
 
-                return redirect()->route('/')->with('messages', '登录成功');
+                return redirect('/')->with('messages', '登录成功');
             }
         }
 
-        return back()->with('messages', '账号或者密码错误');
+        return back()->with('messages', '账号或者密码错误')->withInput();
     }
 
 
