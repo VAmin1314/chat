@@ -18,9 +18,16 @@ $worker->onMessage = function($connection, $data)
     $url = $api.'?token='.$data['token'];
 
     $info = send_curl($url);
+    $uid = $info['id'];
+
+    if (empty($uid)) {
+        $send = ['type' => 'login', 'message' => '链接失败'];
+        return $connection->send(json_encode($send));
+    }
+
     // 判断是否登录
-    if (!isset($connection->uid)) {
-        $connection->uid = $info['id'];
+    if (!isset($connection->uid) && !$worker->uidConnections[$uid]) {
+        $connection->uid = $uid;
         $worker->uidConnections[$connection->uid] = $connection;
         $send = ['type' => 'login', 'message' => '登录成功'];
 
@@ -30,7 +37,7 @@ $worker->onMessage = function($connection, $data)
     $send = [
         'type' => 'chat',
         'message' => htmlspecialchars($data['content']),
-        'id' => $info['id'],
+        'id' => $uid,
         'uid' => $data['uid'],
         'name' => $info['name']
     ];

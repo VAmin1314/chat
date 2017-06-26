@@ -11,6 +11,7 @@ function sendMessage($message, $uid = 'all')
     } else {
         if (isset($worker->uidConnections[$uid])) {
             $connection = $worker->uidConnections[$uid];
+
             $connection->send($message);
         }
     }

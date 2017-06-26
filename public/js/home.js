@@ -3,15 +3,38 @@ $(function () {
     var uid = $('.only').attr('data-id');
     $('.only').attr('data-token', '');
     $('.content').focus();
+    var heartCheck = {
+        timeout: 1000,
+        timeoutObj: null,
+        reset: function(){
+            clearTimeout(this.timeoutObj);
+            this.start();
+        },
+        start: function(){
+            this.timeoutObj = setTimeout(function(){
+                // sendMessage('HeartBeat');
+                reconnect();
+            }, this.timeout)
+        }
+    }
 
     // 链接成功
     ws = new WebSocket('ws://'+ws_url);
+    console.log(ws);
+    console.log(ws.onerror);
     ws.onopen = function() {
+        heartCheck.start();
         console.log("连接成功");
-        sendMessage('all');
+        sendMessage('', 'all');
+    };
+    ws.onerror = function () {
+        $('.content').attr('disabled', 'disabled').val('链接失败，请稍后重试！');
+        $('.send-content').attr('disabled', 'disabled');
+        // layer.msg('链接失败，请稍后重试！');
     };
     // 收到消息
     ws.onmessage = function(e) {
+        heartCheck.reset();
         var data = eval('('+e.data+')');
         console.log(data);
 
@@ -50,7 +73,7 @@ $(function () {
                 return false;
             }
 
-            sendMessage('all', content);
+            sendMessage(content);
             $('.content').val('');
             return false;
         }
@@ -62,18 +85,18 @@ $(function () {
             layer.msg('发送内容不能为空');
         }
 
-        sendMessage('all', content);
+        sendMessage(content);
         $('.content').val('');
         return false;
     })
 
-    function sendMessage (uid, content = '') {
+    function sendMessage (content, uid = 'all') {
         var info = '{"uid": "'+uid+'", "content": "'+content+'", "token": "'+token+'", "to": "all"}';
         console.log(info);
         ws.send(info);
     }
 
-    // ws.onclose = function(e) {
-    //     console.log(e);
-    // };
+    ws.onclose = function(e) {
+        reconnect();
+    };
 })
